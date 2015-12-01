@@ -47,5 +47,8 @@ Basic listing with different job boards to find remote jobs.
 [more job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 
 
+## Contracting information
+[For UK based](https://github.com/tadast/switching-to-contracting-uk)
+
 ## Know others?
 Feel free to create pull requests with any other job boards you know.
