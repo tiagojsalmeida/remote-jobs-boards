@@ -31,7 +31,9 @@ Basic listing with different job boards to find remote jobs.
 - [Front End Developer Jobs](http://frontenddeveloperjob.com/)
 - [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=)
 - [Who is hiring?](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
-
+- [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
+- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
+ 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
 - [Fiverr](https://www.fiverr.com/)
