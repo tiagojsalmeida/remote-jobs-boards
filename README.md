@@ -32,8 +32,9 @@ Basic listing with different job boards to find remote jobs.
 - [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=)
 - [Who is hiring?](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 - [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
-- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
- 
+- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote
+- [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
+
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
 - [Fiverr](https://www.fiverr.com/)
@@ -45,6 +46,7 @@ Basic listing with different job boards to find remote jobs.
 - [Gigster](http://www.trygigster.com)
 - [Speedlancer](http://www.speedlancer.com)
 - [Spare5](http://www.spare5.com)
+- [Freel](http://www.freel.ca)
 
 [more job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 
