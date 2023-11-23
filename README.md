@@ -34,6 +34,7 @@ Basic listing with different job boards to find remote jobs.
 - [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
 - [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote
 - [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
+- [OkJob](https://okjob.io/remote-4-day-work-week/) - 4 day week remote jobs
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
