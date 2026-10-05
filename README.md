@@ -49,6 +49,7 @@ Basic listing with different job boards to find remote jobs.
 - [Speedlancer](http://www.speedlancer.com)
 - [Spare5](http://www.spare5.com)
 - [Freel](http://www.freel.ca)
+- [GigFish](https://gig.fish/discover) - Directory of gig platforms: remote AI training, paid research studies, user testing
 
 [more job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 
