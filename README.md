@@ -38,6 +38,7 @@ Basic listing with different job boards to find remote jobs.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
+- [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
