@@ -37,6 +37,7 @@ Basic listing with different job boards to find remote jobs.
 - [OkJob](https://okjob.io/remote-4-day-work-week/) - 4 day week remote jobs
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
+- [AI Trainer Jobs](https://aitrainer.jobs/) - Remote AI training jobs (data annotation, RLHF, prompt and model evaluation) aggregated from 60+ platforms, updated hourly.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
