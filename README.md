@@ -51,6 +51,7 @@ Basic listing with different job boards to find remote jobs.
 - [Spare5](http://www.spare5.com)
 - [Freel](http://www.freel.ca)
 - [GigFish](https://gig.fish/discover) - Directory of gig platforms: remote AI training, paid research studies, user testing
+- [chainjobs](https://chainjobs.app/) - Free Web3 and freelance job board with direct chat and 0% platform commission
 
 [more job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 
