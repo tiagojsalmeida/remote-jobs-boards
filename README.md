@@ -38,6 +38,7 @@ Basic listing with different job boards to find remote jobs.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
+- [Stafka](https://stafka.com/remote-jobs/) - Remote jobs open to applicants in Ukraine, Georgia, Armenia and Kazakhstan, with hours in local time; free for candidates.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
