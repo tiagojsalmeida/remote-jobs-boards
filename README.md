@@ -40,6 +40,7 @@ Basic listing with different job boards to find remote jobs.
 - [CookLLM](https://cookllm.com/en/jobs/board) - Free AI job board: 20,000+ roles from 1,300+ AI companies' career pages, with remote and visa sponsorship filters.
 - [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards, all job functions.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
+- [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it.
 - [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
 - [Stafka](https://stafka.com/remote-jobs/) - Remote jobs open to applicants in Ukraine, Georgia, Armenia and Kazakhstan, with hours in local time; free for candidates.
 
