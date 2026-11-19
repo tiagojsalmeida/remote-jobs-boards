@@ -38,6 +38,9 @@ Basic listing with different job boards to find remote jobs.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards, all job functions.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
+- [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
+- [Stafka](https://stafka.com/remote-jobs/) - Remote jobs open to applicants in Ukraine, Georgia, Armenia and Kazakhstan, with hours in local time; free for candidates.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
@@ -52,6 +55,7 @@ Basic listing with different job boards to find remote jobs.
 - [Spare5](http://www.spare5.com)
 - [Freel](http://www.freel.ca)
 - [GigFish](https://gig.fish/discover) - Directory of gig platforms: remote AI training, paid research studies, user testing
+- [chainjobs](https://chainjobs.app/) - Free Web3 and freelance job board with direct chat and 0% platform commission
 
 [more job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 
