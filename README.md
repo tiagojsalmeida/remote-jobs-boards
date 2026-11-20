@@ -38,6 +38,7 @@ Basic listing with different job boards to find remote jobs.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [CookLLM](https://cookllm.com/en/jobs/board) - Free AI job board: 20,000+ roles from 1,300+ AI companies' career pages, with remote and visa sponsorship filters.
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - Free remote job search read every hour from employers' own career pages; closed jobs removed.
 - [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards, all job functions.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
 - [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it.
