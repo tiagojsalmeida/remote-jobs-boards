@@ -39,6 +39,7 @@ Basic listing with different job boards to find remote jobs.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [CookLLM](https://cookllm.com/en/jobs/board) - Free AI job board: 20,000+ roles from 1,300+ AI companies' career pages, with remote and visa sponsorship filters.
 - [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards, all job functions.
+- [EuroJobs.ai](https://eurojobs.ai/) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages, with visa sponsorship, remote and English-speaking team filters.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
 - [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it.
 - [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
