@@ -44,6 +44,7 @@ Basic listing with different job boards to find remote jobs.
 - [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
 - [Stafka](https://stafka.com/remote-jobs/) - Remote jobs open to applicants in Ukraine, Georgia, Armenia and Kazakhstan, with hours in local time; free for candidates.
 - [JobsInCrypto](https://jobsincrypto.net/) - 1,000+ manually checked crypto and web3 jobs, plus a talent pool: create an anonymous profile and companies message you first. Free.
+- [NodJobs](https://nodjobs.com/) - Free remote jobs for job seekers in the US. Every listing is rechecked around the clock and taken down once the company closes it; pay range on most listings, apply on the company's own page, no signup.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
