@@ -38,6 +38,17 @@ Basic listing with different job boards to find remote jobs.
 - [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing with keyword, employment-type and salary-listed filters.
 - [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [AI Trainer Jobs](https://aitrainer.jobs/) - Remote AI training jobs (data annotation, RLHF, prompt and model evaluation) aggregated from 60+ platforms, updated hourly.
+- [DMtheFounder](https://dmthefounder.com/) - Free board of early engineering roles, including remote, posted by startup founders on X and Hacker News.
+- [CookLLM](https://cookllm.com/en/jobs/board) - Free AI job board: 20,000+ roles from 1,300+ AI companies' career pages, with remote and visa sponsorship filters.
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - Free remote job search read every hour from employers' own career pages; closed jobs removed.
+- [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards, all job functions.
+- [EuroJobs.ai](https://eurojobs.ai/) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages, with visa sponsorship, remote and English-speaking team filters.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs)
+- [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it.
+- [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
+- [Stafka](https://stafka.com/remote-jobs/) - Remote jobs open to applicants in Ukraine, Georgia, Armenia and Kazakhstan, with hours in local time; free for candidates.
+- [JobsInCrypto](https://jobsincrypto.net/) - 1,000+ manually checked crypto and web3 jobs, plus a talent pool: create an anonymous profile and companies message you first. Free.
+- [NodJobs](https://nodjobs.com/) - Free remote jobs for job seekers in the US. Every listing is rechecked around the clock and taken down once the company closes it; pay range on most listings, apply on the company's own page, no signup.
 
 ## Freelancing
 - [Skillbridge](http://www.skillbridge.co/)
@@ -52,6 +63,7 @@ Basic listing with different job boards to find remote jobs.
 - [Spare5](http://www.spare5.com)
 - [Freel](http://www.freel.ca)
 - [GigFish](https://gig.fish/discover) - Directory of gig platforms: remote AI training, paid research studies, user testing
+- [chainjobs](https://chainjobs.app/) - Free Web3 and freelance job board with direct chat and 0% platform commission
 
 [more job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards).
 
